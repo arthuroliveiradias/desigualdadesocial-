@@ -1,0 +1,24 @@
+body{ 
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+/* background-image: url(https://conceitosdomundo.pt/wp-content/uploads/2021/10/paisagem-rural.jpg);
+background-repeat:no-repeat;
+background-position:30% 10%;
+background-size: cover;
+background-attachment: fixed;
+background-size: 500px 300px; */
+
+/* background-image: -webkit-linear-gradient(45deg, white, rgb(109, 8, 8), rgb(4, 149, 206)  ); */
+/* background-image: -webkit-radial-gradient(circle  rgb(238, 255, 0) rgb(255, 60, 0), rgb(255, 0, 0) ); */
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOg3kIY9vCGobH40_3BGFZbaxn8FgDeJfcW95aLh0SnVIR6LP_);
+background-position: center;
+background-size: cover;
+
+}
+
+p{
+    text-align: justify;
+    margin: 50px;
+}
